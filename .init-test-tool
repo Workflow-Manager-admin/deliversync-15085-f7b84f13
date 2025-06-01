@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/deliversync-15085-f7b84f13/deliver_sync"
+}
